@@ -1,5 +1,7 @@
 # Continuous Control
 
+<img src="./img/reacher.gif" width="500" />
+
 This notebook presents the work of training a Reinforcement Learning (RL) agent to control 20 double-jointed arms to reach moving targets, in the Unity ML-Agents environment. The model that based on the Deep Deterministic Policy Gradient(DDPG) algorithm.
 
 
